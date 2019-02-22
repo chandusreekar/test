@@ -8,6 +8,6 @@ class SumDemo{
 	{
 		TestInt t=(x,y)->(x+y);
 		System.out.println(t.add(10,20));
-		};
+		
 	}
 }
